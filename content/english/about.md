@@ -1,36 +1,26 @@
 ---
 title: "About"
 date: 2019-05-14T14:46:10+06:00
-description: "This is meta description"
+description: "Good Vibrations Watford - An Introduction"
 image: "images/author.jpg"
 ---
 
-### Hello, I’m **John Doe**
+## What is Good Vibrations Watford?
 
-Creative UI/UX desingerr how loves to craft beautiful that satisfy users needs the product. A best idea
-generate for the agency complay smart and elegant design When, while the lovely valley teems with vapour
-around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a
-few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling
-stream; and, as I lie close to the earth, a thousand unknown plants are noticed by me.
+A not for profit group which aims to provide musical experience, lessons, somewhere safe and warm to be with good people and hot food.
+We take kindly donated musical instruments, repair where needed and offer a space for those in need, to come and relax, have a square meal and possibly learn a beneficial skill for their own development, and maintaining a healthy mind.
+From kind-hearted volunteers to experienced musicians, we take pride in offering a non judgemental, positive outlook because any situation no matter how bad, can be made in some way better.
 
-I hear the buzz
-of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects
-and flies, then I feel the presence of the Almighty, who formed us in his own image, and the breath of that
-universal love which bears and sustains.
+### Hello, I’m **Ryan White**
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem deserunt tempora doloribus non, voluptas
-dolor? Consequuntur et ad officiis iste, vero natus possimus labore veritatis a eius doloremque. Optio amet
-quis harum nulla vitae repellat officiis veniam accusamus error hic deleniti in, quas est illum cum natus
-neque possimus delectus dolore ipsam. Pariatur, ad molestias alias voluptas iusto quam debitis beatae sint
-similique velit, dicta eos dolorum cumque mollitia officia iure labore voluptatibus. Non at sequi, natus
-dolores, cum accusamus repudiandae hic blanditiis ipsum possimus qui assumenda quaerat optio ab molestias ipsa
-iste molestiae dignissimos. Reprehenderit quod totam nostrum nihil.
+Some background; I was a race mechanic for Mercedes and I came down with MS which left me unable to walk and was registered blind, I found myself in a dark enough place to go and sit on the railway bridge near me, I figured ill wait until I hear a train coming and ill just slide off.
 
+I started playing my guitar while I waited and I played a tune so perfectly and it felt so damn good that I had an involuntary desire to come back tomorrow and do it again. In that moment I jumped back from the edge and realised I definitely did not want to jump. Guitar and the ability to play it, quite literally saved my life.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem deserunt tempora doloribus non, voluptas
-dolor? Consequuntur et ad officiis iste, vero natus possimus labore veritatis a eius doloremque. Optio amet
-quis harum nulla vitae repellat officiis veniam accusamus error hic deleniti in, quas est illum cum natus
-neque possimus delectus dolore ipsam. Pariatur, ad molestias alias voluptas iusto quam debitis beatae sint
-similique velit, dicta eos dolorum cumque mollitia officia iure labore voluptatibus. Non at sequi, natus
-dolores, cum accusamus repudiandae hic blanditiis ipsum possimus qui assumenda quaerat optio ab molestias ipsa
-iste molestiae dignissimos. Reprehenderit quod totam nostrum nihil.
+I decided to stop feeling sorry for my loss of professional ability and my sight, so I started this group to share musical skills between members of the local community. From repairing and upcycling old and broken instruments, to imparting knowledge of how to play an instrument in a kind atmosphere, among friendly people with free food and drink, because self worth, and good mental health are intrinsically related.
+
+If a single person is able to feel half the benefit that I did playing a tune on an instrument, that gives me an immense feeling of satisfaction.
+
+We were incorporated by the charity commission in Feb this year.
+
+If you would like to help support us in our goal to bring musical skills knowledge to as many people as possible then please, go to our fundraising page and donate what you can afford or, a donation of time is just as gratefully received. Contact us through the form on this site to see how to get involved !!

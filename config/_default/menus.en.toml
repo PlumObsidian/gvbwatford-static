@@ -4,12 +4,12 @@
 name = "Homepage"
 url = ""
 weight = 1
-hasChildren = false
+# hasChildren = false
 
-[[main]]
-parent = "Homepage"
-name = "Homepage 2"
-url = "homepage/home-2/"
+# [[main]]
+# parent = "Homepage"
+#name = "Homepage 2"
+#url = "homepage/home-2/"
 
 [[main]]
 name = "About"
