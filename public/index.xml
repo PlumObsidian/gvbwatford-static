@@ -1,60 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Good Vibrations Watford - Charity</title>
-    <link>https://gvbwatford.uk/</link>
-    <description>Recent content on Good Vibrations Watford - Charity</description>
+    <title>Good Vibrations Watford - Business</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Good Vibrations Watford - Business</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 02 Nov 2025 23:50:10 +0000</lastBuildDate>
-    <atom:link href="https://gvbwatford.uk/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Purple Tuesday</title>
-      <link>https://gvbwatford.uk/blog/purpletuesday/</link>
+      <link>http://localhost:1313/blog/purpletuesday/</link>
       <pubDate>Sun, 02 Nov 2025 23:50:10 +0000</pubDate>
-      <guid>https://gvbwatford.uk/blog/purpletuesday/</guid>
-      <description>&lt;p&gt;Join us on Purple Tuesday to raise awareness of the customer experience for disabled people through music from local charity Good Vibrations 🎵 &lt;/p&gt;</description>
+      <guid>http://localhost:1313/blog/purpletuesday/</guid>
+      <description>&lt;p&gt;Join us on Purple Tuesday to raise awareness of the customer experience for disabled people through music from local charity Good Vibrations 🎵 &lt;/p&gt;&#xA;🗓️ Tuesday 4 November &lt;/p&gt;&#xA;🕧  12.30pm-1.30pm &lt;/p&gt;&#xA;📍 Rickmansworth High Street (Outside Iceland)&lt;/p&gt;&#xA;Purple Tuesday is a special day that encourages shops, businesses, and organisations to be more welcoming and helpful to people with disabilities.&#xA;#ThreeRivers&lt;/p&gt;</description>
     </item>
     <item>
       <title>Purpletuesday</title>
-      <link>https://gvbwatford.uk/content/posts/purpletuesday/</link>
+      <link>http://localhost:1313/content/posts/purpletuesday/</link>
       <pubDate>Sun, 02 Nov 2025 23:44:37 +0000</pubDate>
-      <guid>https://gvbwatford.uk/content/posts/purpletuesday/</guid>
+      <guid>http://localhost:1313/content/posts/purpletuesday/</guid>
       <description></description>
     </item>
     <item>
       <title>About</title>
-      <link>https://gvbwatford.uk/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      <guid>https://gvbwatford.uk/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       <description>&lt;h2 id=&#34;what-is-good-vibrations-watford&#34;&gt;What is Good Vibrations Watford?&lt;/h2&gt;&#xA;&lt;p&gt;A not for profit group which aims to provide musical experience, lessons, somewhere safe and warm to be with good people and hot food.&#xA;We take kindly donated musical instruments, repair where needed and offer a space for those in need, to come and relax, have a square meal and possibly learn a beneficial skill for their own development, and maintaining a healthy mind.&#xA;From kind-hearted volunteers to experienced musicians, we take pride in offering a non judgemental, positive outlook because any situation no matter how bad, can be made in some way better.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Contact</title>
-      <link>https://gvbwatford.uk/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://gvbwatford.uk/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description>&lt;p&gt;Work in progress - Not yet functional. &amp;lt;3&lt;/p&gt;</description>
     </item>
     <item>
       <title>Homepage 1</title>
-      <link>https://gvbwatford.uk/homepage/home-1/</link>
+      <link>http://localhost:1313/homepage/home-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://gvbwatford.uk/homepage/home-1/</guid>
+      <guid>http://localhost:1313/homepage/home-1/</guid>
       <description></description>
     </item>
     <item>
       <title>Homepage 2</title>
-      <link>https://gvbwatford.uk/homepage/home-2/</link>
+      <link>http://localhost:1313/homepage/home-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://gvbwatford.uk/homepage/home-2/</guid>
+      <guid>http://localhost:1313/homepage/home-2/</guid>
       <description></description>
     </item>
     <item>
       <title>Search Result</title>
-      <link>https://gvbwatford.uk/search/</link>
+      <link>http://localhost:1313/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://gvbwatford.uk/search/</guid>
+      <guid>http://localhost:1313/search/</guid>
       <description></description>
     </item>
   </channel>

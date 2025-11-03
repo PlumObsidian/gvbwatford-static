@@ -1,0 +1,5 @@
+#!/bin/sh
+
+hugo && rsync -avz --delete public/ ryan@goodvibrations2:/DATA/AppData/public
+
+exit 0

@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Homepages on Good Vibrations Watford - Charity</title>
-    <link>https://gvbwatford.uk/homepage/</link>
-    <description>Recent content in Homepages on Good Vibrations Watford - Charity</description>
+    <title>Homepages on Good Vibrations Watford - Business</title>
+    <link>http://localhost:1313/homepage/</link>
+    <description>Recent content in Homepages on Good Vibrations Watford - Business</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://gvbwatford.uk/homepage/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/homepage/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Homepage 1</title>
-      <link>https://gvbwatford.uk/homepage/home-1/</link>
+      <link>http://localhost:1313/homepage/home-1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://gvbwatford.uk/homepage/home-1/</guid>
+      <guid>http://localhost:1313/homepage/home-1/</guid>
       <description></description>
     </item>
     <item>
       <title>Homepage 2</title>
-      <link>https://gvbwatford.uk/homepage/home-2/</link>
+      <link>http://localhost:1313/homepage/home-2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://gvbwatford.uk/homepage/home-2/</guid>
+      <guid>http://localhost:1313/homepage/home-2/</guid>
       <description></description>
     </item>
   </channel>

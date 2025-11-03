@@ -3,7 +3,7 @@ baseurl = "https://gvbwatford.uk/"
 languageCode = "en-us"
 title = "Good Vibrations Watford - Business"
 theme = "parsa-hugo"
-
+resourceDir = "../resources"
 pagination.pagerSize = 6
 # google analytics
 googleAnalytics = "" # example : UA-123-45
@@ -11,6 +11,9 @@ googleAnalytics = "" # example : UA-123-45
 # output
 [outputs]
 home = ["HTML", "RSS", "JSON"]
+  section = ["HTML", "RSS"]
+  taxonomy = ["HTML"]
+  term = ["HTML"]
 
 [markup.goldmark.renderer]
 unsafe = true

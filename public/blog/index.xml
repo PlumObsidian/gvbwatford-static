@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Good Vibrations Watford - Charity</title>
-    <link>https://gvbwatford.uk/blog/</link>
-    <description>Recent content in Blogs on Good Vibrations Watford - Charity</description>
+    <title>Blogs on Good Vibrations Watford - Business</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blogs on Good Vibrations Watford - Business</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 02 Nov 2025 23:50:10 +0000</lastBuildDate>
-    <atom:link href="https://gvbwatford.uk/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Purple Tuesday</title>
-      <link>https://gvbwatford.uk/blog/purpletuesday/</link>
+      <link>http://localhost:1313/blog/purpletuesday/</link>
       <pubDate>Sun, 02 Nov 2025 23:50:10 +0000</pubDate>
-      <guid>https://gvbwatford.uk/blog/purpletuesday/</guid>
-      <description>&lt;p&gt;Join us on Purple Tuesday to raise awareness of the customer experience for disabled people through music from local charity Good Vibrations 🎵 &lt;/p&gt;</description>
+      <guid>http://localhost:1313/blog/purpletuesday/</guid>
+      <description>&lt;p&gt;Join us on Purple Tuesday to raise awareness of the customer experience for disabled people through music from local charity Good Vibrations 🎵 &lt;/p&gt;&#xA;🗓️ Tuesday 4 November &lt;/p&gt;&#xA;🕧  12.30pm-1.30pm &lt;/p&gt;&#xA;📍 Rickmansworth High Street (Outside Iceland)&lt;/p&gt;&#xA;Purple Tuesday is a special day that encourages shops, businesses, and organisations to be more welcoming and helpful to people with disabilities.&#xA;#ThreeRivers&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
