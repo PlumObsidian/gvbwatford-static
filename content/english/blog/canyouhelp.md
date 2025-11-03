@@ -14,7 +14,7 @@ categories:
 
 # Volunteering
 
-Volunteering. It feels good and you ca learn lots from it. At the Croxley Studio there is so much potential for volunteers to learn some interesting new skills..
+Volunteering. It feels good and you can learn lots from it. At the Croxley Studio there is so much potential for volunteers to learn some interesting new skills..
 
 - Firstly, this is a safe, non-judgemental space to play the many instruments that are here that have been donated or restored.
 - We are running classes for instrument building and repair.

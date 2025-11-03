@@ -2,47 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/blog/</loc>
+    <loc>https://gvbwatford.uk/tags/blog/</loc>
+    <lastmod>2025-11-03T19:53:06+00:00</lastmod>
+  </url><url>
+    <loc>https://gvbwatford.uk/blog/</loc>
+    <lastmod>2025-11-03T19:53:06+00:00</lastmod>
+  </url><url>
+    <loc>https://gvbwatford.uk/blog/canyouhelp/</loc>
+    <lastmod>2025-11-03T19:53:06+00:00</lastmod>
+  </url><url>
+    <loc>https://gvbwatford.uk/categories/</loc>
+    <lastmod>2025-11-03T19:53:06+00:00</lastmod>
+  </url><url>
+    <loc>https://gvbwatford.uk/</loc>
+    <lastmod>2025-11-03T19:53:06+00:00</lastmod>
+  </url><url>
+    <loc>https://gvbwatford.uk/categories/news/</loc>
+    <lastmod>2025-11-03T19:53:06+00:00</lastmod>
+  </url><url>
+    <loc>https://gvbwatford.uk/tags/news/</loc>
+    <lastmod>2025-11-03T19:53:06+00:00</lastmod>
+  </url><url>
+    <loc>https://gvbwatford.uk/tags/</loc>
+    <lastmod>2025-11-03T19:53:06+00:00</lastmod>
+  </url><url>
+    <loc>https://gvbwatford.uk/tags/volunteering/</loc>
+    <lastmod>2025-11-03T19:53:06+00:00</lastmod>
+  </url><url>
+    <loc>https://gvbwatford.uk/tags/events/</loc>
     <lastmod>2025-11-02T23:50:10+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://gvbwatford.uk/blog/purpletuesday/</loc>
     <lastmod>2025-11-02T23:50:10+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/events/</loc>
-    <lastmod>2025-11-02T23:50:10+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2025-11-02T23:50:10+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/news/</loc>
-    <lastmod>2025-11-02T23:50:10+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/news/</loc>
-    <lastmod>2025-11-02T23:50:10+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/blog/purpletuesday/</loc>
-    <lastmod>2025-11-02T23:50:10+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2025-11-02T23:50:10+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/content/</loc>
-    <lastmod>2025-11-02T23:44:37+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/content/posts/purpletuesday/</loc>
-    <lastmod>2025-11-02T23:44:37+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://gvbwatford.uk/about/</loc>
     <lastmod>2019-05-14T14:46:10+06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://gvbwatford.uk/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/homepage/home-1/</loc>
+    <loc>https://gvbwatford.uk/homepage/home-1/</loc>
   </url><url>
-    <loc>http://localhost:1313/homepage/home-2/</loc>
+    <loc>https://gvbwatford.uk/homepage/home-2/</loc>
   </url><url>
-    <loc>http://localhost:1313/homepage/</loc>
+    <loc>https://gvbwatford.uk/homepage/</loc>
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://gvbwatford.uk/search/</loc>
   </url>
 </urlset>
