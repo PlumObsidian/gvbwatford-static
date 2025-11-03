@@ -1,7 +1,7 @@
 # default config
-baseurl = "/"
+baseurl = "https://gvbwatford.uk/"
 languageCode = "en-us"
-title = "Parsa Hugo | Personal Blog Template"
+title = "Good Vibrations Watford - Charity"
 theme = "parsa-hugo"
 summaryLength = "10"
 pagination.pagerSize = 6

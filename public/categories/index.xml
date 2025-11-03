@@ -1,53 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Parsa Hugo | Personal Blog Template</title>
-    <link>//localhost:1313/categories/</link>
-    <description>Recent content in Categories on Parsa Hugo | Personal Blog Template</description>
+    <title>Categories on Good Vibrations Watford - Charity</title>
+    <link>https://gvbwatford.uk/categories/</link>
+    <description>Recent content in Categories on Good Vibrations Watford - Charity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 14 May 2019 14:46:10 +0600</lastBuildDate>
-    <atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Nov 2025 23:50:10 +0000</lastBuildDate>
+    <atom:link href="https://gvbwatford.uk/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Article</title>
-      <link>//localhost:1313/categories/article/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      <guid>//localhost:1313/categories/article/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Fashion</title>
-      <link>//localhost:1313/categories/fashion/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      <guid>//localhost:1313/categories/fashion/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Food</title>
-      <link>//localhost:1313/categories/food/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      <guid>//localhost:1313/categories/food/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Nature</title>
-      <link>//localhost:1313/categories/nature/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      <guid>//localhost:1313/categories/nature/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Philosophy</title>
-      <link>//localhost:1313/categories/philosophy/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      <guid>//localhost:1313/categories/philosophy/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Valuable Idea</title>
-      <link>//localhost:1313/categories/valuable-idea/</link>
-      <pubDate>Tue, 14 May 2019 14:46:10 +0600</pubDate>
-      <guid>//localhost:1313/categories/valuable-idea/</guid>
+      <title>News</title>
+      <link>https://gvbwatford.uk/categories/news/</link>
+      <pubDate>Sun, 02 Nov 2025 23:50:10 +0000</pubDate>
+      <guid>https://gvbwatford.uk/categories/news/</guid>
       <description></description>
     </item>
   </channel>

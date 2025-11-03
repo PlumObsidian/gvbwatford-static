@@ -50,6 +50,7 @@ link = "plugins/search/search.js"
 
 # default parameter
 [params]
+font_size = "xl"
 summaryLength = 100
 logo = "images/logo.png"
 home = "Home"
@@ -91,12 +92,12 @@ link = "https://www.facebook.com/groups/668930655432371"
 
 [[params.social]]
 icon = "ti-twitter-alt"
-link = "#"
+link = "https://x.com/gvbwatford"
 
-[[params.social]]
-icon = "ti-linkedin"
-link = "#"
+# [[params.social]]
+# icon = "ti-linkedin"
+# link = "#"
 
-[[params.social]]
-icon = "ti-github"
-link = "#"
+# [[params.social]]
+# icon = "ti-github"
+# link = "#"
