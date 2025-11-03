@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Contents on Good Vibrations Watford - Business</title>
-    <link>http://localhost:1313/content/</link>
+    <link>https://gvbwatford.uk/content/</link>
     <description>Recent content in Contents on Good Vibrations Watford - Business</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 02 Nov 2025 23:44:37 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/content/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://gvbwatford.uk/content/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Purpletuesday</title>
-      <link>http://localhost:1313/content/posts/purpletuesday/</link>
+      <link>https://gvbwatford.uk/content/posts/purpletuesday/</link>
       <pubDate>Sun, 02 Nov 2025 23:44:37 +0000</pubDate>
-      <guid>http://localhost:1313/content/posts/purpletuesday/</guid>
+      <guid>https://gvbwatford.uk/content/posts/purpletuesday/</guid>
       <description></description>
     </item>
   </channel>
