@@ -1,7 +1,9 @@
 ---
 title: "Contact"
-description: "This is meta description"
-image: "images/contact.jpg"
+description: "Contact Good Vibrations Watford"
+image: "images/contact.png"
 layout: "contact"
+contact_form_action: "https://formspree.io/f/xqagvddy"
 ---
-Work in progress - Not yet functional. <3
+Contact Good Vibrations Watford at Croxley Studios.
+
