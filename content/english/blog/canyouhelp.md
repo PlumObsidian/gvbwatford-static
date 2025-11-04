@@ -7,6 +7,7 @@ tags:
   - "Blog"
   - "Volunteering"
 image: "images/masonary-post/wires.jpg"
+feature-image: "images/masonary-post/wires.jpg"
 description: "A request for vounteers"
 categories:
   - "News"

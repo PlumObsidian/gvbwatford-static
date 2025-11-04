@@ -6,7 +6,8 @@ tags:
   - "Events"
   - "News"
 image: "images/masonary-post/purpletuesday.jpg"
-description: ""
+feature-image: "images/masonary-post/purpletuesday.jpg"
+description: "Purple Tuesday"
 categories:
   - "News"
 ---
