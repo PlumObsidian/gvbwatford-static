@@ -23,7 +23,7 @@ Volunteering. It feels good and you can learn lots from it. At the Croxley Studi
 - Do you have the interest or skills to run and maintain this _or_ do you want  to learn about it? 
 - Most of the computers here are now running Linux which is a free, open-source operating system. Whilst this may be initially baffling for some, I'm happy to run some tutorials on this if the interest is there.
 - In particular, what we are finding with the Linux setups is that you can turn an otherwise older pieces of computer equipment that is destined to be e-waste into something like a file server, music jukebox or even a recording studio setup on a discarded laptop.
-- Linux we have also found to be very customizable for visual impairment or any other use need. It makes computers and technology to people who are otherwise excluded. we have string feels about digital exclusion. Disability happens when something like a piece of software is poorly designed.
+- Linux we have also found to be very customizable for visual impairment or any other use need. It makes computers and technology to people who are otherwise excluded. we have strong feels about digital exclusion. Disability happens when something like a piece of software is poorly designed.
 - Are you an artist or do you want to contribute to the visual identity of Good Vibrations? Do you want to learn how to build websites for FREE?
 - Are you a writer or do you feel YOU could write good and interesting copy for a blog?
 
